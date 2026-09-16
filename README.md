@@ -1,5 +1,9 @@
 # CNEMO
 
+<p align="center">
+  <img src="cnemologo.png" alt="CNEMO" width="220">
+</p>
+
 Repositorio público oficial del proyecto CNEMO.
 
 CNEMO es un proyecto blockchain desarrollado dentro de CNEMOTECH.
@@ -14,11 +18,14 @@ CNEMO es un proyecto blockchain desarrollado dentro de CNEMOTECH.
 
 ## Documentación
 
-La documentación oficial del proyecto se encuentra disponible en el sitio web de CNEMOTECH.
+- [Libro Blanco](documentos/CNEMO_Libro_Blanco.pdf)
+- [Documentación Técnica](documentos/CNEMO_Documentacion_Tecnica.pdf)
 
 ## Transparencia
 
 El contrato inteligente de CNEMO se encuentra verificado públicamente en PolygonScan.
+
+- Contrato verificado: https://polygonscan.com/address/0xb0dd2a98ae337bb1cdde2589c3686d64287d1395
 
 ## Contacto y canales oficiales
 
