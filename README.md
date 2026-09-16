@@ -18,8 +18,9 @@ CNEMO es un proyecto blockchain desarrollado dentro de CNEMOTECH.
 
 ## Documentación
 
-- [Libro Blanco](docs/CNEMO_Documentacion_Tecnica.pdf)
-- [Documentación Técnica](docs/CNEMO_Libro_Blanco.pdf)
+- [Libro Blanco](docs/CNEMO_Libro_Blanco.pdf)
+- [Documentación Técnica](docs/CNEMO_Documentacion_Tecnica.pdf)
+
 
 ## Transparencia
 
