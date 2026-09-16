@@ -30,6 +30,6 @@ El contrato inteligente de CNEMO se encuentra verificado públicamente en Polygo
 ## Contacto y canales oficiales
 
 - Sitio web: https://www.cnemotech.com/
-- X: https://x.com/CNEMOCOIN
+- X: https://x.com/CNEMOTECH
 - Telegram: https://t.me/Cnemotech
 - LinkedIn: https://www.linkedin.com/company/cnemo
